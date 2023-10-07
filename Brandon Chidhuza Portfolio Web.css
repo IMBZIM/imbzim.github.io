@@ -317,9 +317,6 @@ body{
     transition: 3s;
     animation:manipActiveHover .1s forwards;
     animation-delay: 5s;
-    pointer-events: none;
-    
-   
-    
+    pointer-events: none;  
 }
     
