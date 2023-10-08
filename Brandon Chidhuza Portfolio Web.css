@@ -311,10 +311,6 @@ body{
     position: absolute;
     top: 0;
     right: 30px;
-    width: 55%;
-    height: 50%;
-    background: url('Portfolio-images/portimage.jpg') no-repeat right center;
-    background-size: contain;
     transition: 3s;
     animation: manipActiveHover 0.1s forwards;
     animation-delay: 5s;
