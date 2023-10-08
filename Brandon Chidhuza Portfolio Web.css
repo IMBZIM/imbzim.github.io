@@ -311,6 +311,7 @@ body{
     position: absolute;
     top: 0;
     right: 30px;
+    height: auto;
     transition: 3s;
     animation: manipActiveHover 0.1s forwards;
     animation-delay: 5s;
@@ -318,6 +319,7 @@ body{
     padding: auto;
     margin: auto;
     background: transparent;
+    
 }
 
 @media only screen and (max-width: 768px) {
